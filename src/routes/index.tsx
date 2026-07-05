@@ -459,7 +459,7 @@ function Home() {
               Refer a Friend & Earn $100
             </h2>
             <p className="mx-auto mt-4 max-w-2xl text-lg text-navy-600">
-              Know someone thinking of selling? When they list with Havenly, you get 
+              Know someone thinking of selling? When they purchase any Havenly package (Essential, Standard, or Premium), you get 
               <strong className="text-havenly-600"> $100</strong> — and they save thousands on commissions.
               It's a win-win.
             </p>
@@ -490,7 +490,7 @@ function Home() {
               </div>
               <h3 className="text-lg font-bold text-navy-900">You Get $100</h3>
               <p className="mt-2 text-sm text-navy-600">
-                After they close, we send you a $100 thank-you. Simple as that.
+                After they close on any Havenly package, we send you $100. Simple as that.
               </p>
             </div>
           </div>
@@ -501,7 +501,7 @@ function Home() {
               <span className="text-havenly-300">havenlyhomes.ctonew.app</span>
             </p>
             <p className="mt-2 text-sm text-white/60">
-              Make sure they mention your name when they reach out!
+              They pick any package — Essential ($3k), Standard ($4k), or Premium ($5k) — and you get $100 after they close.
             </p>
           </div>
         </div>
