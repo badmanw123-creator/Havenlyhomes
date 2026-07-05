@@ -232,10 +232,12 @@ function Home() {
                 ))}
               </ul>
               <a
-                href="#contact"
+                href="https://buy.stripe.com/14AfZgbHi3BC8s8bbP2kw00"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="mt-8 block w-full rounded-full border-2 border-navy-200 py-3 text-center text-sm font-semibold text-navy-900 transition-all hover:border-navy-900 hover:bg-navy-50"
               >
-                Get Started
+                Buy Now — $3,000
               </a>
             </div>
 
@@ -268,10 +270,12 @@ function Home() {
                 ))}
               </ul>
               <a
-                href="#contact"
+                href="https://buy.stripe.com/14A9ASaDe1tudMsgw92kw01"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="mt-8 block w-full rounded-full bg-havenly-500 py-3 text-center text-sm font-semibold text-white shadow transition-all hover:bg-havenly-600 hover:shadow-md"
               >
-                Get Started
+                Buy Now — $4,000
               </a>
             </div>
 
@@ -301,10 +305,12 @@ function Home() {
                 ))}
               </ul>
               <a
-                href="#contact"
+                href="https://buy.stripe.com/6oUbJ09za5JK7o41Bf2kw02"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="mt-8 block w-full rounded-full border-2 border-navy-200 py-3 text-center text-sm font-semibold text-navy-900 transition-all hover:border-navy-900 hover:bg-navy-50"
               >
-                Get Started
+                Buy Now — $5,000
               </a>
             </div>
           </div>
