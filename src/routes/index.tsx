@@ -456,11 +456,11 @@ function Home() {
               Share the Savings
             </span>
             <h2 className="mt-3 text-3xl font-bold text-navy-900 sm:text-4xl md:text-5xl">
-              Refer a Friend & Earn $500
+              Refer a Friend & Earn $100
             </h2>
             <p className="mx-auto mt-4 max-w-2xl text-lg text-navy-600">
               Know someone thinking of selling? When they list with Havenly, you get 
-              <strong className="text-havenly-600"> $500</strong> — and they save thousands on commissions.
+              <strong className="text-havenly-600"> $100</strong> — and they save thousands on commissions.
               It's a win-win.
             </p>
           </div>
@@ -488,9 +488,9 @@ function Home() {
               <div className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-full bg-havenly-100 text-2xl font-bold text-havenly-600">
                 3
               </div>
-              <h3 className="text-lg font-bold text-navy-900">You Get $500</h3>
+              <h3 className="text-lg font-bold text-navy-900">You Get $100</h3>
               <p className="mt-2 text-sm text-navy-600">
-                After they close, we send you a $500 thank-you. Simple as that.
+                After they close, we send you a $100 thank-you. Simple as that.
               </p>
             </div>
           </div>
